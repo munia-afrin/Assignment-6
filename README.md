@@ -1,5 +1,5 @@
 Project Name: AHC-PRNG (Affine-Hash Chaotic Pseudorandom Number Generator)
-Designed by: Munia Afrin
+Designed by: Munia Afrin Bethi
 Purpose: To design and implement a new PRNG algorithm combining XOR-shift logic with SHA-256 hashing for enhanced randomness and diffusion.
 Language Used: Python
 Key Features:

@@ -1,11 +1,27 @@
-Project Name: AHC-PRNG (Affine-Hash Chaotic Pseudorandom Number Generator)
-Designed by: Munia Afrin Bethi
-Purpose: To design and implement a new PRNG algorithm combining XOR-shift logic with SHA-256 hashing for enhanced randomness and diffusion.
-Language Used: Python
-Key Features:
+# 🌟 AHC-PRNG (Affine-Hash Chaotic PRNG)
 
-256-bit internal state with SplitMix64 seeding
+**Assignment for Random Number Generator (PRNG) – Designed by Munia Afrin Bethi**
 
-Generates random integers, floats, and bytes
+---
 
-Hash-based nonlinear mixing improves uniformity
+## 🧩 Summary  
+This project implements a new pseudorandom number generator (PRNG) called **AHC-PRNG**.  
+It combines a lightweight XOR-shift core with **SHA-256 hashing** to improve diffusion and randomness.
+
+> ⚠️ Note: This is an academic / assignment-level PRNG, not meant for cryptographic use.
+
+---
+
+## 📁 Files  
+- `ahc_prng.py` → main Python implementation  
+- `README.md` → project description and usage guide  
+
+
+---
+
+## 🚀 How to Run  
+1. Download or clone this repository  
+2. Open a terminal inside the project folder  
+3. Run the demo:  
+   ```bash
+   python ahc_prng.py

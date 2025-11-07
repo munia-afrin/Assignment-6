@@ -1,6 +1,6 @@
 # 🌟 AHC-PRNG (Affine-Hash Chaotic PRNG)
 
-**Assignment for Random Number Generator (PRNG) – Designed by Munia Afrin Bethi**
+**Assignment for Random Number Generator (PRNG) **
 
 ---
 

@@ -8,14 +8,11 @@
 This project implements a new pseudorandom number generator (PRNG) called **AHC-PRNG**.  
 It combines a lightweight XOR-shift core with **SHA-256 hashing** to improve diffusion and randomness.
 
-> ⚠️ Note: This is an academic / assignment-level PRNG, not meant for cryptographic use.
-
 ---
 
 ## 📁 Files  
 - `ahc_prng.py` → main Python implementation  
 - `README.md` → project description and usage guide  
-
 
 ---
 
